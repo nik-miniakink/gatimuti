@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<project version="4">
-  <component name="Black">
-    <option name="cmdArguments" value="-S --experimental-string-processing" />
-    <option name="enabledOnSave" value="true" />
-    <option name="sdkUUID" value="e29f7a73-bac0-4e0b-a00b-ed587311dc96" />
-  </component>
-  <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.9 (gatimuti)" project-jdk-type="Python SDK" />
-</project>

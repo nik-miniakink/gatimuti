@@ -1,6 +1,6 @@
 from django.apps import AppConfig
 
 
-class MemesConfig(AppConfig):
+class LibraryConfig(AppConfig):
     default_auto_field = "django.db.models.BigAutoField"
-    name = "memes"
+    name = "library"
